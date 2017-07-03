@@ -37,6 +37,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - recent_posts
   - recent_comments
   - links
+  - site_pv
 
 links:
   - title: site-name1
